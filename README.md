@@ -62,8 +62,10 @@ Please note that the training ran only for couple of iterations and for demo pur
 
 ## Time analysis
 
-I am ignoring the time needed to setup the conda environment - I used one of my predefined ones
+The whole project took me roughly 6 and half hours to complete.  I have to admit that I did play with some of the techniques and parameters beyond the assignment, which I am not including in the timing.  
+I am also ignoring the time needed to setup the conda environment - I used one of my predefined ones.
 
+Following is the breakup of the individual tasks timing.
 - 10 minutes reading and understanding the assignment
 - 20 minutes to write the basic MT script that loads the data and massages them to the format that NLTK likes for BLEU computation
 - 10 minutes adding punctuation filtering
@@ -77,10 +79,9 @@ I am ignoring the time needed to setup the conda environment - I used one of my 
 - 90 minutes playing with the data and training MT
 - 20 minutes implementing the feature extraction 
 - 10 minutes implementing implementing Logistic Regression classification and filtering
-
 - 5 minutes setting up GIT
-
 - 30 minutes checking and writing this README
+
 
 ## Running the package
 
