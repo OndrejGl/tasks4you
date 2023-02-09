@@ -106,5 +106,5 @@ dependencies:
 
 ### PIP packages
   - nltk
-  -langid
+  - langid
 
