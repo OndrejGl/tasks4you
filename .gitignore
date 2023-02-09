@@ -1,0 +1,7 @@
+*.*~
+__pycache__
+run_dc.py*
+*.swp
+.ipynb_checkpoints
+assignment
+noisy-corpus.with_lid.json
